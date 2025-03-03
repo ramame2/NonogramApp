@@ -1,0 +1,7 @@
+D:\Nano\NonogramApp\NonogramApp\obj\Debug\NonogramApp.csproj.AssemblyReference.cache
+D:\Nano\NonogramApp\NonogramApp\obj\Debug\NonogramApp.Properties.Resources.resources
+D:\Nano\NonogramApp\NonogramApp\obj\Debug\NonogramApp.Views.LoginForm.resources
+D:\Nano\NonogramApp\NonogramApp\obj\Debug\NonogramApp.Views.MainForm.resources
+D:\Nano\NonogramApp\NonogramApp\obj\Debug\NonogramApp.Views.SizeSelectionForm.resources
+D:\Nano\NonogramApp\NonogramApp\obj\Debug\NonogramApp.csproj.GenerateResource.cache
+D:\Nano\NonogramApp\NonogramApp\obj\Debug\NonogramApp.csproj.CoreCompileInputs.cache
